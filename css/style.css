@@ -91,6 +91,7 @@ header .btn {
 .title {
   color: var(--home-color);
   text-transform: uppercase;
+  cursor: pointer;
   padding-bottom: 8px;
   border-bottom: 1px solid var(--border-btm);
 }
